@@ -4,7 +4,7 @@ Real-time chat application with instant messaging, group chats, and forum-style 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://YOUR_USERNAME.github.io/chatapp)
+[View Live Demo](https://kiranpokharkar2003.github.io/chatapp)
 
 ## 📸 Screenshots
 
